@@ -60,6 +60,40 @@ Here are some projects that reflect my journey:
 - Fully responsive React website showcasing my work
 - Integrated animations, light/dark mode toggle, and API-driven content
 
+# 📊 Sales Performance Dashboard Report
+
+## 📌 Project Title
+**Optimizing Sales Insights: A Comprehensive Sales Performance Dashboard**
+
+---
+
+## 📚 Table of Contents
+1. [Introduction](#introduction)  
+2. [Problem Statement](#problem-statement)  
+3. [Objectives](#objectives)  
+4. [Dataset Source](#dataset-source)  
+5. [Methodology](#methodology)  
+6. [Analysis](#analysis)  
+7. [Dashboard Visualization](#dashboard-visualization)  
+8. [Findings](#findings)  
+9. [Recommendations](#recommendations)  
+
+---
+
+## 📝 Introduction
+
+In a competitive business environment, sales data plays a critical role in evaluating company performance, tracking growth, and making data-driven decisions. This report provides a detailed breakdown of a Sales Performance Dashboard built using Power BI, showcasing key insights across sales sources, products, teams, and revenue contributions.
+
+The dashboard is designed for sales managers and executives to monitor KPIs and gain real-time insights into team and product performance, regional trends, and market coverage.
+
+---
+
+## ❗ Problem Statement
+
+The sales department lacked a centralized, interactive tool to:
+
+- Monitor sales performance across different regions and teams  
+
 
 ---
 
