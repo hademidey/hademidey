@@ -62,7 +62,7 @@ Here are some projects that reflect my journey:
 
 # 📊 Sales Performance Dashboard Report
 
-## 📌 Project Title
+### 📌 Project Title
 **Optimizing Sales Insights: A Comprehensive Sales Performance Dashboard**
 
 ---
