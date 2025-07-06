@@ -56,18 +56,10 @@ To leverage both **data analytics** and **frontend development** skills to:
 
 Here are some projects that reflect my journey:
 
-### 📈 Call Center Dashboard (Power BI)
-- Visualized call volumes, agent performance, satisfaction KPIs
-- Built custom DAX measures for advanced filtering and insights  
-- Created quadrant analysis for agent efficiency
-
-### 💼 Sleep Patterns Data Report
-- Designed and analyzed dataset on insomnia patterns
-- Integrated insights on sleep hours, causes, demographics using Power BI
-
-### 🌐 Portfolio Website (React + Tailwind CSS)
+### 🌐 Portfolio Website (React + Tailwind CSS) ![View Project](https://github.com/hademidey/PortFolio)
 - Fully responsive React website showcasing my work
 - Integrated animations, light/dark mode toggle, and API-driven content
+
 
 ---
 
